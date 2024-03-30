@@ -12,7 +12,8 @@
 11. merge branch - junta las ramas creadas
 12. git branch -d rama-nueva  - Elimina la rama creada
 13. git push - sube los archivos a la nube
-14. git commit -am
+14. git commit -am -efectual el add . y commit . juntos
+
 
 
 20. git remote add origin https://github.com/alejanrobellotti/yotube_git.git
