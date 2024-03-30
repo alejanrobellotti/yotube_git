@@ -5,3 +5,5 @@
 4. git commit
 5. git checkout -- .  Reconstruye los archivos a la ultima version subida
 6. git log
+7. git commit --amend 
+8. git checkout -b rama-nueva
