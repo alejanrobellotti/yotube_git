@@ -7,3 +7,6 @@
 6. git log
 7. git commit --amend 
 8. git checkout -b rama-nueva
+9. git branch - Muestra las ramas generadas
+10- git checkout master
+11. merge branch - junta las ramas creadas
