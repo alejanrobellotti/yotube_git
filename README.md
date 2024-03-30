@@ -7,3 +7,13 @@
 6. git log
 7. git commit --amend 
 8. git checkout -b rama-nueva
+9. git branch - Muestra las ramas generadas
+10- git checkout master - Muestra la rama seleccionada 
+11. merge branch - junta las ramas creadas
+12. git branch -d rama-nueva  - Elimina la rama creada
+13. git push - sube los archivos a la nube
+14. git commit -am
+
+
+20. git remote add origin https://github.com/alejanrobellotti/yotube_git.git
+21. git branch -M main
