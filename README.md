@@ -10,3 +10,4 @@
 9. git branch - Muestra las ramas generadas
 10- git checkout master
 11. merge branch - junta las ramas creadas
+12. git branch -d rama-nueva  - Elimina la rama creada
